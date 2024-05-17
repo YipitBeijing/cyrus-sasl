@@ -1,0 +1,7 @@
+#Windows
+*.sdf
+*.opensdf
+*.suo
+cyrus-sasl/.vs
+cyrus-sasl/cyrus-sasl/Win32
+cyrus-sasl/cyrus-sasl/x64
